@@ -17,5 +17,5 @@ and run the script with
 
 ```python online_CS.py```
 
-All simulation parameters can be set in the script itself in the functions 'simulation' and 'prior'.
+All simulation parameters can be set in the script itself in the functions `simulation` and `prior`.
 If everything goes smooth, it will plot the reconstructed vector and an estimate of the error.
