@@ -1,7 +1,7 @@
 # Bayesian Online Compressed Sensing
 Online Algorithm for Bayesian Compressed Sensing Reconstruction
 by
-Paulo Rossi (University of Sao Paulo) and
+Paulo V. Rossi (University of Sao Paulo) and
 Yoshiyuki Kabashima (Tokyo Institute of Technology)
 
 http://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.022137
